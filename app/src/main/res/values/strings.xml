@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guia02_ejercicio</string>
+    <string name="edit_text">Inserta la URL</string>
+    <string name="estado">Estado</string>
+    <string name="btnDescargar">Descargar</string>
+    <string name="rbtnCambiar">Cambiar nombre del archivo</string>
+    <string name="rbtnNoCambiar">No cambiar el nombre</string>
+    <string name="txtNombre">Nombre del archivo</string>
+</resources>
